@@ -1,0 +1,16 @@
+{
+  "name": "niles",
+  "version": "1.0.0",
+  "description": "NilesBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.17.0",
+    "node-wit": "^2.0.0",
+    "request": "^2.67.0"
+  }
+}
